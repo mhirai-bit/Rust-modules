@@ -1,0 +1,1 @@
+C:\Users\pictu\Documents\Study\Rust\modules\iter\for_loops_and_ItntoIterator\target\debug\for_loops_and_ItntoIterator.exe: C:\Users\pictu\Documents\Study\Rust\modules\iter\for_loops_and_ItntoIterator\src\main.rs
